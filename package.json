@@ -1,0 +1,29 @@
+{
+  "name": "alexa-getmenu",
+  "version": "1.0.0",
+  "description": "This is an alexa-skill for getting menu from techcafe",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borantaylan/alexa-getmenu.git"
+  },
+  "keywords": [
+    "Alexa",
+    "skill",
+    "amazon"
+  ],
+  "author": "Boran Taylan BALCI, Umutcan Simsek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borantaylan/alexa-getmenu/issues"
+  },
+  "homepage": "https://github.com/borantaylan/alexa-getmenu#readme"
+}
